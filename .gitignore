@@ -1,0 +1,7 @@
+.metadata
+
+.cproject
+
+bin/*
+*.o
+*.d
